@@ -15,7 +15,6 @@
 ## 📞 &nbsp;Contact
 
 <a href = "mailto:lucas.lmp77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
-<a href="https://discord.gg/gsDdfTJp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 <br>
 
