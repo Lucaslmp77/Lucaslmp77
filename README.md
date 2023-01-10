@@ -5,11 +5,6 @@
 
 <br>
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Lucaslmp77&show_icons=true&theme=vision-friendly-dark" alt="stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslmp77&layout=compact&theme=vision-friendly-dark" alt="most languages"/>
-</p>
-
 <br>
 
 ## 📞 &nbsp;Contact
