@@ -5,8 +5,9 @@
 
 <br>
 
-<div display = "flex">  <img width="49%" height="197px" src="https://github-readme-stats.vercel.app/api?username=Lucaslmp77&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img width="49%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslmp77&layout=compact&langs_count=7&theme=highcontrast"/>
+<div display = "flex"> 
+<img  height="197px" src="https://github-readme-stats.vercel.app/api?username=Lucaslmp77&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img  height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslmp77&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <br>
