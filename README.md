@@ -5,10 +5,11 @@
 
 <br>
 
-<div display = "flex"> 
 <img  height="197px" src="https://github-readme-stats.vercel.app/api?username=Lucaslmp77&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+
+ <br>
+ 
 <img  height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslmp77&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
 
 <br>
 
